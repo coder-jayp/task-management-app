@@ -35,7 +35,7 @@ task-management-app/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/task-management-app.git
+git clone https://github.com/coder-jayp/task-management-app.git
 cd task-management-app
 
 2. Create a virtual environment and activate it:
